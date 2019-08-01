@@ -1,0 +1,49 @@
+{
+  "title": "轻量图表(TradingView) 中文开发文档",
+  "description": "轻量图表(TradingView) 中文开发文档",
+  "language": "zh",
+  "plugins": [
+    "livere",
+    "github",
+    "github-buttons",
+    "splitter",
+    "sitemap",
+    "donate"
+  ],
+  "pluginsConfig": {
+    "livere": {
+      "uid": "MTAyMC8zNTIyNC8xMTc2MA=="
+    },
+    "github": {
+      "url": "https://github.com/zlq4863947/lightweight-charts-docs-cn"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "zlq4863947",
+          "repo": "lightweight-charts-docs-cn",
+          "type": "star",
+          "size": "small",
+          "count": true
+        },
+        {
+          "user": "zlq4863947",
+          "repo": "lightweight-charts-docs-cn",
+          "type": "fork",
+          "size": "small",
+          "count": true
+        }
+      ]
+    },
+    "donate": {
+      "wechat": "https://b.aitrade.ga/books/tradingview/images/weixin.png",
+      "alipay": "https://b.aitrade.ga/books/tradingview/images/alipay.png",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "sitemap": {
+      "hostname": "http://aitrade.ga"
+    }
+  }
+}
