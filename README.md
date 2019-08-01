@@ -10,9 +10,9 @@
 
 ## 本项目地址
 
-- 仓库：[https://github.com/zlq4863947/lightweight-charts-docs-cn](https://github.com/zlq4863947/tradingViewWikiCn)
-- 在线阅读：[https://zlq4863947.gitbooks.io/lightweight-charts-docs-cn/](https://zlq4863947.gitbooks.io/tradingview/)
-- 在线阅读(国内防墙)：[https://b.aitrade.ga/books/lightweight-charts-docs-cn/](https://b.aitrade.ga/books/tradingview/)
+- 仓库：[https://github.com/zlq4863947/lightweight-charts-docs-cn](https://github.com/zlq4863947/lightweight-charts-docs-cn)
+- 在线阅读：[https://zlq4863947.gitbooks.io/lightweight-charts-docs-cn](https://zlq4863947.gitbooks.io/lightweight-charts-docs-cn)
+- 在线阅读(国内防墙)：[https://b.aitrade.ga/books/lightweight-charts-docs-cn/](https://b.aitrade.ga/books/lightweight-charts-docs-cn)
 
 ## 开发交流 QQ 群
 
